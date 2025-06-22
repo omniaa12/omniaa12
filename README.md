@@ -15,7 +15,8 @@ I'm a final-year computer science student at South Valley National University. I
 ## 🧠 What I'm Into
 
 - 💻 Backend development with **C#**, **ASP.NET MVC**, and **Web API**  
-- 📦 Strong base in **C++**, **Python**, **JavaScript**  
+- 📦 Strong base in **C++**, **Python**, **JavaScript** , **C#**  
+- 🧩 Solving **competitive programming** problems using **C++**  
 - 🧠 Studied basics of **Machine Learning** and **Deep Learning**  
 - 🔍 Always exploring new technologies and improving problem-solving skills  
 
