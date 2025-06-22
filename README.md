@@ -34,27 +34,14 @@ I'm a final-year computer science student at South Valley National University. I
 
 ---
 
-## 📊 GitHub Stats
 
-<details>
-  <summary><b>📈 My Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omniaa12&show_icons=true&hide_border=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omniaa12&layout=compact&langs_count=8&hide_border=true&theme=radical"/>
-</details>
 
-<details>
-  <summary><b>🔥 Github Streak</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omniaa12&hide_border=true&theme=radical"/>
-</details>
 
----
 
 ## 🗨️ Let’s Connect
 
 - 💬 Feel free to reach out for anything backend or AI related!
-- 📫 Email: [omnia.najaty@gmail.com](mailto:omnia.najaty@gmail.com)
+- 📫 Email: [omnia.najaty@gmail.com](mailto:omnianajaty049@gmail.com)
 - 🌐 LinkedIn: [omnia-najaty-aa1841276](https://linkedin.com/in/omnia-najaty-aa1841276)
 
 ---
