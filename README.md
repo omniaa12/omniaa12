@@ -6,7 +6,7 @@
 ---
 
 ### 👋 Glad to see you here!  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omniaa12&label=Profile%20views&color=0e75b6&style=flat" alt="omniaa12" /> </p>
+
 
 I'm a final-year computer science student at South Valley National University. I’m passionate about backend development and always exploring more in AI. With a strong foundation in Algorithms, Data Structures, and Databases, I love building useful backend systems and expanding my knowledge in AI.
 
