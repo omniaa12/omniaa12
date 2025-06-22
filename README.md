@@ -1,37 +1,48 @@
-# Saksham Taneja 👨‍💻
+# Omnia Najaty 👩‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
-[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
-[![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-omnia--najaty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omnia-najaty-aa1841276/)](https://www.linkedin.com/in/omnia-najaty-aa1841276/) 
+[![GitHub Badge](https://img.shields.io/badge/-omniaa12-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/omniaa12)](https://github.com/omniaa12)  
+[![Gmail Badge](https://img.shields.io/badge/-omnia.najaty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omnia.najaty@gmail.com)](mailto:omnia.najaty@gmail.com)
+
 ---
 
-## Hi there 👋,
+## 👋 Hi there!
 
-### I'm Saksham Taneja, I am a community guy who loves tech and see myself as product enthoziast.
--------
-  
-## 🧐 About
+### I'm Omnia Najaty, a final-year computer science student passionate about backend development and AI.
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
+---
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## 👩‍🎓 About Me
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 🎓 Currently studying at South Valley National University, Faculty of Computer and AI.
+- 📚 Studied **Algorithms**, **Data Structures**, and **Databases**.
+- 💻 Strong in **JavaScript**, **C++**, **C#**, **Python**, **HTML**, and **CSS**.
+- 🌐 Learning **ASP.NET MVC** and **Web API** for backend development.
+- 🧠 Interested in **Artificial Intelligence**, with experience in **Machine Learning** and **Deep Learning** basics.
+- 🚀 Building projects to strengthen my backend and AI skills.
 
+---
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+## 💡 Interests
+
+- Backend development  
+- Web APIs  
+- Software architecture  
+- Machine Learning & Deep Learning  
+- JavaScript and modern web technologies  
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: [omnia-najaty](https://www.linkedin.com/in/omnia-najaty-aa1841276/)
+- GitHub: [omniaa12](https://github.com/omniaa12)
+- Email: [omnia.najaty@gmail.com](mailto:omnia.najaty@gmail.com)
+
+---
+
+![Omnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=omniaa12&show_icons=true&theme=radical)
 
 <!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
-
+**omniaa12/omniaa12** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
