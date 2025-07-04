@@ -26,14 +26,14 @@ I love building useful backend systems and expanding my knowledge in AI.
 
 ## 🔧 Tools & Technologies
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="csharp"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="js"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="csharp"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="js"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
 
 ---
 
